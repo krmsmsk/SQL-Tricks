@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="1000" src="https://github.com/krmsmsk/Resimler/blob/main/SQL/6%20-%20Distinct%20ile%20gruplama.png?raw=true"  />
+  <img height="800" src="https://github.com/krmsmsk/Resimler/blob/main/SQL/6%20-%20Distinct%20ile%20gruplama.png?raw=true"  />
 </div>
 
 ###
