@@ -1,4 +1,5 @@
-<h3 align="center">Firstly, let's check tables which we used</h3>
+<h2 align="center">Firstly, let's check tables which we used</h2>
+<h3 align="center">All these tables created by me with excel, with RANDBETWEEN() function. Then I import these tables to database which I created before for using on this analysis sample.</h3>
 
 ###
 
@@ -9,6 +10,7 @@
 ###
 
 <h2 align="center">Than, let's analysis them!</h2>
+
 
 ###
 
