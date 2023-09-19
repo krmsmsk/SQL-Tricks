@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center">Than, let's analysis them!</h2>
+<h2 align="center">Than, let's analysis them</h2>
 
 
 ###
